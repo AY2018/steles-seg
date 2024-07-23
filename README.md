@@ -13,4 +13,4 @@
 ### Image 4
 ![20080-31](./20080-31.JPG)
 
-[![YouTube Video](https://img.youtube.com/vi/yPppskB2zK8/0.jpg)](https://youtu.be/yPppskB2zK8)
+[Open YouTube Video](https://youtu.be/yPppskB2zK8){:target="_blank"}

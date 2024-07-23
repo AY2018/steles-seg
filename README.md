@@ -1,3 +1,5 @@
+[Link : Preparation of the dataset](https://youtu.be/yPppskB2zK8)
+
 # steles-seg
 
 Yolo segmentation model trained during 8 hours on 360 images (initial = 40 images + data augmentation = 40 x 8), 200 epochs. 
@@ -12,6 +14,5 @@ Yolo segmentation model trained during 8 hours on 360 images (initial = 40 image
 ![20080-31](./result_imgs/20080-31.JPG)
 
 
-[Link : Preparation of the dataset](https://youtu.be/yPppskB2zK8)
 
 

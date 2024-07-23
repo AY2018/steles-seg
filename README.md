@@ -1,6 +1,5 @@
-[Link : Preparation of the dataset](https://youtu.be/yPppskB2zK8)
 
-Makesense Repo : [make-sense2](https://github.com/AY2018/make-sense2)
+Prepare ground truth : [repo link](https://github.com/AY2018/Final_DL2)
 
 # steles-seg
 
